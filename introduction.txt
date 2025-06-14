@@ -1,0 +1,5 @@
+# Brief Introduction About Myself
+
+My name is Caleb Ejeh. I am a  backend developer from Nigeria, currently pursuing a degree in Economics at the University of Lagos. I’m passionate about building digital tools that solve real problems — especially in the areas of housing and financial inclusion.
+
+I started my tech journey with frontend development, but later transitioned to backend, where I feel most comfortable. I'm also the founder of HomeEase, a platform aimed at making housing more affordable by eliminating middlemen. I love sharing knowledge, and I’ve built communities like Statech to support other young Africans.
