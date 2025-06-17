@@ -1,1 +1,1 @@
-"[Names of contributors]"
+
